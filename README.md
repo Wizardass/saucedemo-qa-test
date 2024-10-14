@@ -41,7 +41,7 @@ pip install -r requirements.txt
 1. Убедитесь, что у вас установлен Google Chrome.
 2. Запустите тест:
 ```bash
-python test_purchase.py
+pytest -v
 ```
 
 ## Ожидаемый результат
