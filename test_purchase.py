@@ -72,4 +72,3 @@ def test_purchase(driver):
     login(driver)
     add_item_to_cart(driver)
     checkout(driver)
-    print("Test passed successfully!")
